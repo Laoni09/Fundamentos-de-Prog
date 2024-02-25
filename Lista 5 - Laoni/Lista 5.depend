@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1687213880 source:c:\users\laoni\onedrive\햞ea de trabalho\lista 5\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1687213864 source:c:\users\laoni\onedrive\햞ea de trabalho\lista 5\alunos.c
+	<stdio.h>
+	<stdlib.h>
+	"Alunos.h"
+
+1687213974 c:\users\laoni\onedrive\햞ea de trabalho\lista 5\alunos.h
+
+1687213880 source:c:\users\laoni\onedrive\햞ea de trabalho\lista 5 - laoni\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1687432928 source:c:\users\laoni\onedrive\햞ea de trabalho\lista 5 - laoni\alunos.c
+	<stdio.h>
+	<stdlib.h>
+	"Alunos.h"
+
+1687213974 c:\users\laoni\onedrive\햞ea de trabalho\lista 5 - laoni\alunos.h
+
